@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{6AFFCB3A-7847-40CE-9687-5826FEE3D3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieREST", "MovieREST\MovieREST.csproj", "{07119712-F60F-48C8-9257-708DF63ACFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFFCB3A-7847-40CE-9687-5826FEE3D3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFFCB3A-7847-40CE-9687-5826FEE3D3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFFCB3A-7847-40CE-9687-5826FEE3D3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFFCB3A-7847-40CE-9687-5826FEE3D3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07119712-F60F-48C8-9257-708DF63ACFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07119712-F60F-48C8-9257-708DF63ACFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07119712-F60F-48C8-9257-708DF63ACFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07119712-F60F-48C8-9257-708DF63ACFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22962BA-07B5-4919-A2A6-F6B14CBCED9A}
+	EndGlobalSection
+EndGlobal
